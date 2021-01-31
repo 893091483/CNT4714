@@ -1,4 +1,0 @@
-210130211019, 97634, "Campagnolo 12 spd crankset - 53/39 175mm", 750.0, 3, 0.0, 2250.0, 01/30/21, 10:19:22 AM EST
-210130211019, 228865X, "3M Super 33+ electrical tape box 10", 32.5, 3, 0.0, 97.5, 01/30/21, 10:19:22 AM EST
-210130211019, 1111, "Top Secret Twenty One - Janet Evanovich", 8.99, 6, 0.1, 48.55, 01/30/21, 10:19:22 AM EST
-210130211019, 4762, "HP copy paper ultra white - ream", 13.5, 4, 0.0, 54.0, 01/30/21, 10:19:22 AM EST
