@@ -12,8 +12,6 @@ public class ItemInfo {
         this.price = price;
     }
 
-
-
     public String getDescription()
     {
         return description;
