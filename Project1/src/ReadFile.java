@@ -5,7 +5,9 @@ import java.util.Scanner;
 
 
 public class ReadFile {
+    //generate hashmap use <string,obj> to find item info base on item id
     public final HashMap<String,ItemInfo> itemInfoHashMap = new HashMap<>();
+
     public void readInventory() {
 
         try {
@@ -27,9 +29,7 @@ public class ReadFile {
 
         String[] s = inventoryItem.split(",");
         ItemInfo data = new ItemInfo(s[1],s[2],Double.parseDouble(s[3]));
-        //System.out.println(s[0] + " "+ s[1] + " "+ s[2] + " " + Double.valueOf(s[3]));
         itemInfoHashMap.put(s[0],data);
-
     }
 
 }
